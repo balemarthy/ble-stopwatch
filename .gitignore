@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+*.o
+*.out
+*.elf
+*.hex
+*.bin
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
